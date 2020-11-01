@@ -1,6 +1,6 @@
 # model-wp
-Modelo para desenvolvimento.
+Modelo para facilidar no desenvolvimento
+## Dicas de uso 
 
-# Dicas de uso
-• 'npm run dev': Iniciar a observação do webpack, "webpack -w"
-• Usar com algum Live Server. Assim que salvo o arquivo no VSCode ele atualizará no servidor
+- 'npm run dev': Iniciar a observação do webpack, "webpack -w";
+- Usar com algum Live Server. Assim que salvo o arquivo no VSCode ele atualizará no servidor;
