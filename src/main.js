@@ -1,1 +1,2 @@
-console.log('projeto criado')
+import './style/style.css';
+console.log('projeto criado');
