@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://model-wp/./src/main.js"],"names":["console","log"],"mappings":";;;;;;AAAAA,OAAO,CAACC,GAAR,CAAY,gBAAZ,E","file":"bundle.js","sourcesContent":["console.log('projeto criado')"],"sourceRoot":""}
